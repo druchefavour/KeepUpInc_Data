@@ -1,0 +1,20 @@
+{
+"Id":   "15",
+"ASIN": "1559362022",
+  "title": "Wake Up and Smell the Coffee",
+  "group": "Book",
+  "salesrank": "518927",
+  "similar": ["5",  "1559360968",  "1559361247",  "1559360828",  "1559361018",  "0743214552"],
+  "categories": "3",
+   "Book_categories": ["|Books[283155]|Subjects[1000]|Literature & Fiction[17]|Drama[2159]|United States[2160]",
+   "|Books[283155]|Subjects[1000]|Arts & Photography[1]|Performing Arts[521000]|Theater[2154]|General[2218]",
+   "|Books[283155]|Subjects[1000]|Literature & Fiction[17]|Authors, A-Z[70021]|( B )[70023]|Bogosian, Eric[70116]"],
+  "reviews_total": "8", 
+"reviews_downloaded": "8",  
+"reviews_avg_rating": "4",
+"Timestamp":["2002-5-13", "2003-1-2", "2003-6-7", "2003-6-27", "2004-2-17", "2004-2-24", "2004-10-13"],
+    "customer": ["A2IGOA66Y6O8TQ", "A2OIN4AUH84KNE", "A2HN382JNT1CIU", "A2FDJ79LDU4O18", "A39QMV9ZKRJXO5","AUUVMSTQ1TXDI","A2C5K0QTLL9UAT", "A5XYF0Z3UH4HB"],
+"rating": ["5","5", "1", "4", "4", "1", "5", "5"],
+"votes":  [ "3" , "2", "6", "1", "1", "2", "2", "1"], 
+"helpful":[ "2", "1", "1", "1" , "0", "2", "1"]
+}
